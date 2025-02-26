@@ -17,11 +17,18 @@ print("+++++++++++++++++")
 anime = input("What's your favorite anime?: ")
 if anime == "One piece":
     print("Oh really?")
-    character = input("Name me any of the characters?")
+    character = input("Name me any of the characters?: ")
     if character != "Nami":
         print("You got that by pure chance.")
     else:
         print("Nah Nami is fine fr")
-    job = input("Okay then, what is Nami's job on the ship?")
-    if job != "Navigator"
-        
+    job = input("Okay then, what is Nami's job on the ship?: ")
+    if job != "Navigator":
+        print("Hmph!")
+    else:
+        print("Nuh uh!")
+    bounty = input("What was her first bounty then?: ")
+    if bounty != "Umm..":
+        print("SEE! FAKE ONE PEICE FAN!")
+else:
+    print ("hmmm. Yea, idk that anime")
