@@ -23,3 +23,6 @@ elif username == "Greg" and password == "Gr3g0ry":
     print("Welcome Greg")
 else:
     print("alr, just leave pls")
+name = input("Name: ")
+if name == "Amy" or name == "amy":
+    print("Hello Amy!")
