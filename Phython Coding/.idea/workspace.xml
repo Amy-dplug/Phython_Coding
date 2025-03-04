@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="26910b26-eb0a-400f-8f92-59bf999ed01f" name="Changes" comment="debugg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_Coding/4.Project_Affirmation_curse generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Coding/4.Project_Affirmation_curse generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_Coding/5.Project_Wholesome_Positivity_Machine-pt_2.py" beforePathEscaped="$PROJECT_DIR$/../Python_Coding/5.Project_Wholesome_Positivity_Machine-pt_2😇.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Coding/5.Project_Wholesome_Positivity_Machine-pt_2.py" afterPathEscaped="$PROJECT_DIR$/../Python_Coding/5.Project_Wholesome_Positivity_Machine-pt_2😇.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Coding/01-Student_Grading_system/01-Student_grading_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Coding/01-Student_Grading_system/01-Student_grading_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Coding/02-Temperature_advice/02-Temperature_advice.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Coding/02-Temperature_advice/02-Temperature_advice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Coding/03-Even_or_Odd_Number_Checker/03-Even_or_Odd_Number_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Coding/03-Even_or_Odd_Number_Checker/03-Even_or_Odd_Number_checker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Coding/04-Voting_Eligibility_Checker/04-Voting_Eligibility_Checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Coding/04-Voting_Eligibility_Checker/04-Voting_Eligibility_Checker.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,28 +53,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01-Student_grading_system.executor": "Run",
-    "Python.2.Variables._learning.executor": "Run",
-    "Python.3.Nesting_Learning.executor": "Run",
-    "Python.4.Project_Affirmation_curse generator.executor": "Run",
-    "Python.5.Project_Wholesome_Positivity_Machine-pt_2😇.executor": "Run",
-    "Python.Loops_and_variables.executor": "Run",
-    "Python.idk.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/1067542/Documents/Python_Coding",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01-Student_grading_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.Variables._learning.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.Nesting_Learning.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.Project_Affirmation_curse generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.Project_Wholesome_Positivity_Machine-pt_2😇.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops_and_variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.idk.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/1067542/Documents/Python_Coding&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../Python_Coding" />
@@ -130,7 +132,8 @@
       <workItem from="1740576233610" duration="4141000" />
       <workItem from="1740667870408" duration="3575000" />
       <workItem from="1740749364580" duration="1982000" />
-      <workItem from="1741014894493" duration="913000" />
+      <workItem from="1741014894493" duration="2624000" />
+      <workItem from="1741094917916" duration="1501000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -156,7 +159,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740672037444</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="debugg">
+      <option name="closed" value="true" />
+      <created>1741016149883</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741016149883</updated>
+    </task>
+    <task id="LOCAL-00005" summary="debugg">
+      <option name="closed" value="true" />
+      <created>1741016156911</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741016156911</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +188,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Phython_Coding$3_Nesting_Learning.coverage" NAME="3.Nesting_Learning Coverage Results" MODIFIED="1740580045703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding" />
-    <SUITE FILE_PATH="coverage/Phython_Coding$5_Project_Wholesome_Positivity_Machine_pt_2.coverage" NAME="5.Project_Wholesome_Positivity_Machine-pt_2😇 Coverage Results" MODIFIED="1741015410472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding" />
+    <SUITE FILE_PATH="coverage/Phython_Coding$5_Project_Wholesome_Positivity_Machine_pt_2.coverage" NAME="5.Project_Wholesome_Positivity_Machine-pt_2😇 Coverage Results" MODIFIED="1741016138052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding" />
     <SUITE FILE_PATH="coverage/Phython_Coding$01_Student_grading_system.coverage" NAME="01-Student_grading_system Coverage Results" MODIFIED="1740497025807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01-Student_Grading_system" />
     <SUITE FILE_PATH="coverage/Phython_Coding$4_Project_Affirmation_curse_generator.coverage" NAME="4.Project_Affirmation_curse generator Coverage Results" MODIFIED="1740749778794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding" />
     <SUITE FILE_PATH="coverage/Phython_Coding$Loops_and_variables.coverage" NAME="Loops_and_variables Coverage Results" MODIFIED="1740406825057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
