@@ -27,4 +27,4 @@ elif day == "saturday":
 elif day == "sunday":
     print("Prepare for the week ahead with some self-care.")
 else:
-    print("Invalid input. Please enter a valid day of the week."
+    print("Invalid input. Please enter a valid day of the week.")
