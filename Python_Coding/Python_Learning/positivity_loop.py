@@ -1,3 +1,13 @@
+#-----------------------------------------------------------------------------
+#Name:        Positivy loops (positivity_loop.py)
+#Purpose:     learning loops
+#			  Work in GitHub and Pycharm
+#
+#Author:      Amy Egwumba
+#Created:     06-Mar-2025
+#Updated:     17-Mar-2025
+#-----------------------------------------------------------------------------
+
 # Define the emotions dictionary once (outside the loop)
 emotions = {
     1: "😓 Feeling rough, huh? Hang in there!",
