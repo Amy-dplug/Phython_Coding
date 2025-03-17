@@ -4,7 +4,7 @@ emotions = {
     2: "😞 Hope things get better soon.",
     3: "😟 A little down, but you got this!",
     4: "😐 Meh... tomorrow's a new day!",
-    5: "🙂 Right in the middle, not bad!",
+    5: "🙂 Right in the middle, not ba/i/d!",
     6: "😊 A bit of a smile—nice!",
     7: "😀 Sounds like a good day!",
     8: "😃 Now we're talking!",
