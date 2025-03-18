@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26910b26-eb0a-400f-8f92-59bf999ed01f" name="Changes" comment="debugg">
-      <change afterPath="$PROJECT_DIR$/../Python_Coding/Python_Learning/loops_100_days.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_Coding/Python_Learning/Cout_to_ten_chappy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_Coding/README.MD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_Coding/Python_Learning/positivity_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Coding/Python_Learning/positivity_loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,7 @@
     "Python.3.Nesting_Learning.executor": "Run",
     "Python.4.Project_Affirmation_curse generator.executor": "Run",
     "Python.5.Project_Wholesome_Positivity_Machine-pt_2😇.executor": "Run",
+    "Python.Cout_to_ten_chappy.executor": "Run",
     "Python.Loop_on_emotion_scale.executor": "Run",
     "Python.Loops_and_variables.executor": "Run",
     "Python.idk.executor": "Run",
@@ -118,8 +119,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
-        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
       </set>
     </attachedChunks>
   </component>
@@ -142,6 +143,9 @@
       <workItem from="1741098807120" duration="389000" />
       <workItem from="1741186132910" duration="3711000" />
       <workItem from="1741268670059" duration="3136000" />
+      <workItem from="1742220379434" duration="2978000" />
+      <workItem from="1742302057423" duration="531000" />
+      <workItem from="1742302704064" duration="1167000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -199,7 +203,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741189910705</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="debugg">
+      <option name="closed" value="true" />
+      <created>1742220560760</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1742220560760</updated>
+    </task>
+    <task id="LOCAL-00009" summary="debugg">
+      <option name="closed" value="true" />
+      <created>1742221868938</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1742221868938</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,15 +243,16 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Phython_Coding$Loop_on_emotion_scale.coverage" NAME="Loop_on_emotion_scale Coverage Results" MODIFIED="1741189838188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/Python_Learning" />
+    <SUITE FILE_PATH="coverage/Phython_Coding$Cout_to_ten_chappy.coverage" NAME="Cout_to_ten_chappy Coverage Results" MODIFIED="1742303710768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/Python_Learning" />
+    <SUITE FILE_PATH="coverage/Phython_Coding$5_Project_Wholesome_Positivity_Machine_pt_2.coverage" NAME="5.Project_Wholesome_Positivity_Machine-pt_2😇 Coverage Results" MODIFIED="1742221547916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/Python_Learning" />
+    <SUITE FILE_PATH="coverage/Phython_Coding$loops_100_days.coverage" NAME="loops_100_days Coverage Results" MODIFIED="1742303667948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/Python_Learning" />
+    <SUITE FILE_PATH="coverage/Phython_Coding$positivity_loop.coverage" NAME="positivity_loop Coverage Results" MODIFIED="1742222530144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/Python_Learning" />
+    <SUITE FILE_PATH="coverage/Phython_Coding$Loops_and_variables.coverage" NAME="Loops_and_variables Coverage Results" MODIFIED="1740406825057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Phython_Coding$loop_validation_on_scale.coverage" NAME="loop_validation_on_scale Coverage Results" MODIFIED="1741187228645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding" />
     <SUITE FILE_PATH="coverage/Phython_Coding$3_Nesting_Learning.coverage" NAME="3.Nesting_Learning Coverage Results" MODIFIED="1740580045703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding" />
-    <SUITE FILE_PATH="coverage/Phython_Coding$5_Project_Wholesome_Positivity_Machine_pt_2.coverage" NAME="5.Project_Wholesome_Positivity_Machine-pt_2😇 Coverage Results" MODIFIED="1741188407655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding" />
-    <SUITE FILE_PATH="coverage/Phython_Coding$loops_100_days.coverage" NAME="loops_100_days Coverage Results" MODIFIED="1741271697680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/Python_Learning" />
-    <SUITE FILE_PATH="coverage/Phython_Coding$positivity_loop.coverage" NAME="positivity_loop Coverage Results" MODIFIED="1741269166725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/Python_Learning" />
     <SUITE FILE_PATH="coverage/Phython_Coding$01_Student_grading_system.coverage" NAME="01-Student_grading_system Coverage Results" MODIFIED="1740497025807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01-Student_Grading_system" />
     <SUITE FILE_PATH="coverage/Phython_Coding$4_Project_Affirmation_curse_generator.coverage" NAME="4.Project_Affirmation_curse generator Coverage Results" MODIFIED="1740749778794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding" />
-    <SUITE FILE_PATH="coverage/Phython_Coding$Loops_and_variables.coverage" NAME="Loops_and_variables Coverage Results" MODIFIED="1740406825057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Phython_Coding$2_Variables__learning.coverage" NAME="2.Variables._learning Coverage Results" MODIFIED="1741097041595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Phython_Coding$2_Variables__learning.coverage" NAME="2.Variables._learning Coverage Results" MODIFIED="1742303176326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Phython_Coding$idk.coverage" NAME="idk Coverage Results" MODIFIED="1740152334479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Phython_Coding$loop_validation_on_scale.coverage" NAME="loop_validation_on_scale Coverage Results" MODIFIED="1741187228645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding" />
   </component>
 </project>
