@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-#Name:        Positivy loops (positivity_loop.py)
+#Name:        Positivy loops (Positivity_loop.py)
 #Purpose:     learning loops
 #			  Work in GitHub and Pycharm
 #
