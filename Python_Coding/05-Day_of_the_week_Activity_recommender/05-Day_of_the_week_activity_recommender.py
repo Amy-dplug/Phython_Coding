@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------
-# Name:        Day of the week Activity recommender (Day_of_the_week_aactivity_recommender.py)
+# Name:        Day of the week Activity recommender (Day_of_the_week_activity_recommender.py)
 # Purpose:     To tell user if number is even or odd
-#			   work in Github and Pycharm
+#			   work in GitHub and Pycharm
 #
 # Author:      Amy Egwumba
 # Created:     20-Feb-2025
