@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="156ae830-8fb3-4882-93b4-2957d02808a5" name="Changes" comment="New assignments workspace added. Added read me spaces for read me files im learning base on.">
-      <change beforePath="$PROJECT_DIR$/../Python_Coding/15-Remove_Items_from_a_List/15-Remove_Items_from_a_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Coding/15-Remove_Items_from_a_List/15-Remove_Items_from_a_List.py" afterDir="false" />
-    </list>
+    <list default="true" id="156ae830-8fb3-4882-93b4-2957d02808a5" name="Changes" comment="New assignments workspace added. Added read me spaces for read me files im learning base on." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,6 +93,7 @@
       <workItem from="1743770453548" duration="1623000" />
       <workItem from="1747402485416" duration="152000" />
       <workItem from="1747402644104" duration="252000" />
+      <workItem from="1747745769911" duration="277000" />
     </task>
     <task id="LOCAL-00002" summary="New assignments workspace added. Added read me spaces for read me files im learning base on.">
       <option name="closed" value="true" />
@@ -120,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743519300528</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New assignments workspace added. Added read me spaces for read me files im learning base on.">
+      <option name="closed" value="true" />
+      <created>1747746264322</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747746264322</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
