@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="156ae830-8fb3-4882-93b4-2957d02808a5" name="Changes" comment="New assignments workspace added. Added read me spaces for read me files im learning base on.">
-      <change beforePath="$PROJECT_DIR$/../Python_Coding/15-Remove_Items_from_a_List/15-Remove_Items_from_a_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Coding/15-Remove_Items_from_a_List/15-Remove_Items_from_a_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_Coding/Final_Project/Hangman_personal_final_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_Coding/Final_Project/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,32 +40,38 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2ulQwM1VWS2aZkQYrkC5GCEmrtg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.06-Sum_of_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.09-Countdown_timer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13-Ceate_a_Grocery_List_and_Add_Items.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loops_100_days.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.06-Sum_of_numbers.executor": "Run",
+    "Python.09-Countdown_timer.executor": "Run",
+    "Python.13-Ceate_a_Grocery_List_and_Add_Items.executor": "Run",
+    "Python.loops_100_days.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Python_Coding/Python_Learning" />
+      <recent name="$PROJECT_DIR$/../Python_Coding/README_files_for_Python_Learning" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
-        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
       </set>
     </attachedChunks>
   </component>
@@ -95,6 +103,10 @@
       <workItem from="1743770453548" duration="1623000" />
       <workItem from="1747402485416" duration="152000" />
       <workItem from="1747402644104" duration="252000" />
+      <workItem from="1747745769911" duration="1996000" />
+      <workItem from="1747835992216" duration="940000" />
+      <workItem from="1748008691734" duration="922000" />
+      <workItem from="1748009786118" duration="921000" />
     </task>
     <task id="LOCAL-00002" summary="New assignments workspace added. Added read me spaces for read me files im learning base on.">
       <option name="closed" value="true" />
@@ -120,7 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743519300528</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New assignments workspace added. Added read me spaces for read me files im learning base on.">
+      <option name="closed" value="true" />
+      <created>1747746264322</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747746264322</updated>
+    </task>
+    <task id="LOCAL-00006" summary="New assignments workspace added. Added read me spaces for read me files im learning base on.">
+      <option name="closed" value="true" />
+      <created>1747746278584</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747746278584</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
