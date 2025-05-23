@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="156ae830-8fb3-4882-93b4-2957d02808a5" name="Changes" comment="New assignments workspace added. Added read me spaces for read me files im learning base on.">
-      <change afterPath="$PROJECT_DIR$/../Python_Coding/Final_Project/Hangman_personal_final_project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_Coding/Final_Project/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="156ae830-8fb3-4882-93b4-2957d02808a5" name="Changes" comment="New assignments workspace added. Added read me spaces for read me files im learning base on." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +102,7 @@
       <workItem from="1747745769911" duration="1996000" />
       <workItem from="1747835992216" duration="940000" />
       <workItem from="1748008691734" duration="922000" />
-      <workItem from="1748009786118" duration="921000" />
+      <workItem from="1748009786118" duration="1091000" />
     </task>
     <task id="LOCAL-00002" summary="New assignments workspace added. Added read me spaces for read me files im learning base on.">
       <option name="closed" value="true" />
@@ -148,11 +144,30 @@
       <option name="project" value="LOCAL" />
       <updated>1747746278584</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="New assignments workspace added. Added read me spaces for read me files im learning base on.">
+      <option name="closed" value="true" />
+      <created>1748011579617</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1748011579617</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lessons" />
