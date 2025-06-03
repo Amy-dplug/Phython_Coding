@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="156ae830-8fb3-4882-93b4-2957d02808a5" name="Changes" comment="New assignments workspace added. Added read me spaces for read me files im learning base on." />
+    <list default="true" id="156ae830-8fb3-4882-93b4-2957d02808a5" name="Changes" comment="New assignments workspace added. Added read me spaces for read me files im learning base on.">
+      <change afterPath="$PROJECT_DIR$/../Python_Coding/Final_Project/Basic_Pygame_code_to_try.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_Coding/Final_Project/Hang_Man.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_Coding/Final_Project/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_23_25,_10_48 AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +38,10 @@
     &quot;accountId&quot;: &quot;9e76e683-633a-4097-b5a2-b30ec1e30ae0&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -45,6 +55,9 @@
     "Python.06-Sum_of_numbers.executor": "Run",
     "Python.09-Countdown_timer.executor": "Run",
     "Python.13-Ceate_a_Grocery_List_and_Add_Items.executor": "Run",
+    "Python.Basic_Pygame_code_to_try.executor": "Run",
+    "Python.Hang_Man.executor": "Run",
+    "Python.Main.executor": "Run",
     "Python.loops_100_days.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -53,15 +66,47 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Python_Coding/Final_Project" />
       <recent name="$PROJECT_DIR$/../Python_Coding/Python_Learning" />
       <recent name="$PROJECT_DIR$/../Python_Coding/README_files_for_Python_Learning" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Assignments" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python_Coding/Final_Project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python_Coding/Final_Project/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -102,7 +147,10 @@
       <workItem from="1747745769911" duration="1996000" />
       <workItem from="1747835992216" duration="940000" />
       <workItem from="1748008691734" duration="922000" />
-      <workItem from="1748009786118" duration="1091000" />
+      <workItem from="1748009786118" duration="1915000" />
+      <workItem from="1748354286300" duration="1628000" />
+      <workItem from="1748528775779" duration="1815000" />
+      <workItem from="1748959191632" duration="1774000" />
     </task>
     <task id="LOCAL-00002" summary="New assignments workspace added. Added read me spaces for read me files im learning base on.">
       <option name="closed" value="true" />
@@ -152,7 +200,31 @@
       <option name="project" value="LOCAL" />
       <updated>1748011579617</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New assignments workspace added. Added read me spaces for read me files im learning base on.">
+      <option name="closed" value="true" />
+      <created>1748011770047</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1748011770047</updated>
+    </task>
+    <task id="LOCAL-00009" summary="New assignments workspace added. Added read me spaces for read me files im learning base on.">
+      <option name="closed" value="true" />
+      <created>1748011799564</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1748011799564</updated>
+    </task>
+    <task id="LOCAL-00010" summary="New assignments workspace added. Added read me spaces for read me files im learning base on.">
+      <option name="closed" value="true" />
+      <created>1748011810595</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1748011810595</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,13 +243,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lessons" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;Phython Coding/.idea/workspace.xml" />
     <MESSAGE value="New assignments workspace added. Added read me spaces for read me files im learning base on." />
     <option name="LAST_COMMIT_MESSAGE" value="New assignments workspace added. Added read me spaces for read me files im learning base on." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Phython_Coding$06_Sum_of_numbers.coverage" NAME="06-Sum_of_numbers Coverage Results" MODIFIED="1743430454627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/06-Sum_of_numbers" />
-    <SUITE FILE_PATH="coverage/Phython_Coding$loops_100_days.coverage" NAME="loops_100_days Coverage Results" MODIFIED="1743432368944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/Python_Learning" />
+    <SUITE FILE_PATH="coverage/Phython_Coding$Basic_Pygame_code_to_try.coverage" NAME="Basic_Pygame_code_to_try Coverage Results" MODIFIED="1748528806593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/Pygame_Learning" />
+    <SUITE FILE_PATH="coverage/Phython_Coding$Main.coverage" NAME="Main Coverage Results" MODIFIED="1748961148525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/Final_Project" />
     <SUITE FILE_PATH="coverage/Phython_Coding$09_Countdown_timer.coverage" NAME="09-Countdown_timer Coverage Results" MODIFIED="1743432542876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/09-Countdown_timer" />
+    <SUITE FILE_PATH="coverage/Phython_Coding$loops_100_days.coverage" NAME="loops_100_days Coverage Results" MODIFIED="1743432368944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/Python_Learning" />
     <SUITE FILE_PATH="coverage/Phython_Coding$13_Ceate_a_Grocery_List_and_Add_Items.coverage" NAME="13-Ceate_a_Grocery_List_and_Add_Items Coverage Results" MODIFIED="1743519215021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/13-Create_a_Grocery_List_and_Add_Items" />
+    <SUITE FILE_PATH="coverage/Phython_Coding$Hang_Man.coverage" NAME="Hang_Man Coverage Results" MODIFIED="1748959550752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/Final_Project" />
   </component>
 </project>
