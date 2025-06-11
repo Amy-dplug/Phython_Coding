@@ -53,10 +53,33 @@ def main():
         display_hint(hint)
         guess = input("Enter a letter: ").lower()
 
+        if len(guess) != 1 or not guess.isalpha():
+            print("Invalid Input 😓😞")
+            continue
+
+        if guess in guessed_letters:
+            print (f"{guess} was already guessed ❌😑")
+            continue
+
+        guessed_letters.add(guess)
+
         if guess in answer:
             for i in range (len(answer)):
                 if answer [i] == guess:
                     hint[i] = guess
+        else:
+            wrong_guesses += 1
+
+        if "_" not in hint:
+            display_man(wrong_guesses)
+            display_answer(answer)
+            print("YOU WIN! 🎉🥳")
+            is_running = False
+        elif wrong_guesses >= len(hangman_art) - 1:
+            display_man(wrong_guesses)
+            display_answer(answer)
+            print("YOU LOSE 💀☠️")
+            is_running = False
 
 if __name__ == '__main__':
     main()

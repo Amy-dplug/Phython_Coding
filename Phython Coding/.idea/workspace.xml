@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="156ae830-8fb3-4882-93b4-2957d02808a5" name="Changes" comment="New assignments workspace added. Added read me spaces for read me files im learning base on.">
-      <change afterPath="$PROJECT_DIR$/../Python_Coding/Final_Project/Basic_Pygame_code_to_try.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_Coding/Final_Project/Hang_Man.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_Coding/Final_Project/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_23_25,_10_48 AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python_Coding/Final_Project/wordlist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Coding/Final_Project/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Coding/Final_Project/Main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +36,9 @@
     &quot;accountId&quot;: &quot;9e76e683-633a-4097-b5a2-b30ec1e30ae0&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Python_Coding/Final_Project/Main.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
     <option name="showPreview" value="true" />
@@ -50,27 +51,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.06-Sum_of_numbers.executor": "Run",
-    "Python.09-Countdown_timer.executor": "Run",
-    "Python.13-Ceate_a_Grocery_List_and_Add_Items.executor": "Run",
-    "Python.Basic_Pygame_code_to_try.executor": "Run",
-    "Python.Hang_Man.executor": "Run",
-    "Python.Main.executor": "Run",
-    "Python.loops_100_days.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "settings.sync",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.06-Sum_of_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09-Countdown_timer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13-Ceate_a_Grocery_List_and_Add_Items.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Basic_Pygame_code_to_try.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hang_Man.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loops_100_days.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../Python_Coding/Final_Project" />
@@ -150,7 +151,9 @@
       <workItem from="1748009786118" duration="1915000" />
       <workItem from="1748354286300" duration="1628000" />
       <workItem from="1748528775779" duration="1815000" />
-      <workItem from="1748959191632" duration="1774000" />
+      <workItem from="1748959191632" duration="3274000" />
+      <workItem from="1749041667491" duration="2811000" />
+      <workItem from="1749131749140" duration="2930000" />
     </task>
     <task id="LOCAL-00002" summary="New assignments workspace added. Added read me spaces for read me files im learning base on.">
       <option name="closed" value="true" />
@@ -224,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748011810595</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="New assignments workspace added. Added read me spaces for read me files im learning base on.">
+      <option name="closed" value="true" />
+      <created>1748962627364</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1748962627364</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,10 +261,10 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Phython_Coding$06_Sum_of_numbers.coverage" NAME="06-Sum_of_numbers Coverage Results" MODIFIED="1743430454627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/06-Sum_of_numbers" />
     <SUITE FILE_PATH="coverage/Phython_Coding$Basic_Pygame_code_to_try.coverage" NAME="Basic_Pygame_code_to_try Coverage Results" MODIFIED="1748528806593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/Pygame_Learning" />
-    <SUITE FILE_PATH="coverage/Phython_Coding$Main.coverage" NAME="Main Coverage Results" MODIFIED="1748961148525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/Final_Project" />
+    <SUITE FILE_PATH="coverage/Phython_Coding$Main.coverage" NAME="Main Coverage Results" MODIFIED="1749044083491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/Final_Project" />
     <SUITE FILE_PATH="coverage/Phython_Coding$09_Countdown_timer.coverage" NAME="09-Countdown_timer Coverage Results" MODIFIED="1743432542876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/09-Countdown_timer" />
     <SUITE FILE_PATH="coverage/Phython_Coding$loops_100_days.coverage" NAME="loops_100_days Coverage Results" MODIFIED="1743432368944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/Python_Learning" />
     <SUITE FILE_PATH="coverage/Phython_Coding$13_Ceate_a_Grocery_List_and_Add_Items.coverage" NAME="13-Ceate_a_Grocery_List_and_Add_Items Coverage Results" MODIFIED="1743519215021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/13-Create_a_Grocery_List_and_Add_Items" />
-    <SUITE FILE_PATH="coverage/Phython_Coding$Hang_Man.coverage" NAME="Hang_Man Coverage Results" MODIFIED="1748959550752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/Final_Project" />
+    <SUITE FILE_PATH="coverage/Phython_Coding$Hang_Man.coverage" NAME="Hang_Man Coverage Results" MODIFIED="1749042086902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python_Coding/Final_Project" />
   </component>
 </project>
